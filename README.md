@@ -19,3 +19,8 @@
 
 # Contact me
 [<img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'>](https://github.com/bodaryatushar) [<img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/tushar-bodara-b03a47127) [<img src='https://img.icons8.com/color/2x/xing.png' alt='xing' height='40'>](https://www.xing.com/profile/Tushar_Bodarya)
+
+# Skills
+
+![Alt text](https://github.com/bodaryatushar/bodaryatushar/blob/main/Images/Skills/Skills1.png "Skills list")
+![Alt text](https://github.com/bodaryatushar/bodaryatushar/blob/main/Images/Skills/Skills2.png "skills list")
