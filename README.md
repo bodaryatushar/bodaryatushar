@@ -2,9 +2,11 @@
 
 
 * I am a Full Stack Developer.
-* I have  3+ years of experience designing, developing, and managing complex web applications and internal frameworks. 
-* Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks like React.
+* I have 7+ years of experience designing, developing, and managing complex web applications and internal frameworks. 
+* Skilled in both front-end (React, Next.js, HTML, CSS) and back-end (Node.js, REST APIs, Microservices) technologies.
+* Experienced in leading and mentoring cross-functional engineering teams, managing end-to-end product development and delivery.
 * Passionate about Responsive web designing, Accessibility, Performance optimization and possess a working knowledge of Progressive web application.
+* Deep understanding of the software development lifecycle, from requirements gathering to deployment and release management.
 * Experienced in decision-making areas beyond programming such as product development, hiring, etc.
 * I learn and build everything that excites me from cooking food to building large scale application
 
